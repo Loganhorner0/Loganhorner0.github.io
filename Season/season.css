@@ -10,8 +10,8 @@ body {
     margin-left: 0;
     margin-top: 0;
 } .xbox .sticks {
-	width: 367px;
-    height: 100px;
+	width: 286px;
+    height: 94px;
     left: 220px;
     top: 333px;
 }.xbox .stick {
@@ -54,8 +54,8 @@ body {
 } .xbox .arrows {
     left: 195px;
 	top: 140px;
-    width: 416px;
-    height: 57px;
+    width: 28px;
+    height: 47px;
 } .xbox .quadrant { 
     display: none; 
 } .xbox .back, .xbox .start {
@@ -99,8 +99,8 @@ body {
     left: 81px;
     top: 46px;
 } .xbox .bumpers {
-    width: 620px;
-    height: 35px;
+    width: 99px;
+    height: 22px;
     left: 93px;
     top: 114px;
 } .xbox .bumper {
@@ -109,8 +109,8 @@ body {
     height: 22px;
     opacity: 0;
 } .xbox .triggers {
-    width: 619px;
-    height: 108px;
+    width: 200px;
+    height: 91px;
     left: 94px;
 } .xbox .trigger {
     background: url(season2.png);
@@ -122,3 +122,4 @@ body {
 	transform: rotateY(0);
 
 }
+
